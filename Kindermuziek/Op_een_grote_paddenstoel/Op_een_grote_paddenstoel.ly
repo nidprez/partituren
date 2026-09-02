@@ -15,23 +15,25 @@ global = {
 chordNames = \chordmode {
   \global
   \set noChordSymbol = ""
+ \repeat volta 2 {
   c2 r2 g2 c2  
   c2 r2 g:7 c2 
   c2 f g c
-  c r g:7 c 
+  c r g:7 c }
 }
 
 melody = \relative c' {
   \key c \major 
   \global
-    c8 c c d  | e e e4  |
-    d8 c d e   | c4 g    | \break
-    e'8 e e f  | g g g4  |
-    f8 e f g   | e4 c4   | \break
-    g'8 g  g e | a8 a a4 |
-    f8 e f a   | g2      | \break
-    c,8 c c d  | e e e4	 | 
-    d8 c d e   | c4 r4   \bar "|." 
+   \repeat volta 2 { \bar ".|:"
+    c8 c c d    e e e4  |
+    d8 c d e    c4 g    | \break
+    e'8 e e f   g g g4  | 
+    f8 e f g    e4 c4   | \break
+    g'8 g  g e  a8 a a4 |
+    f8 e f a    g2      | \break
+    c,8 c c d   e e e4	 | 
+    d8 c d e    c4 r4   } 
 }
 
 words = \lyricmode {
@@ -67,8 +69,19 @@ wordss = \lyricmode {
     \addlyrics { \wordss }
   >>
   \layout { }
+}
+
+
+\score {
+  \unfoldRepeats
+  <<
+    \new ChordNames \chordNames
+   % \new FretBoards \chordNames
+    \new Staff { \melody }
+  >>
   \midi { }
 }
+
 
 \markup{
    \column{
