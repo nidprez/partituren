@@ -1,7 +1,7 @@
 \version "2.26.0"
 
 \header {
-  title = "Klap eens in je handjes"
+  title = "Template"
   tagline = ##f
 }
 
@@ -26,7 +26,9 @@ melody = \relative c' {
     c8. d16 e8. f16 g4 g        | a c g2 | \break
     f8. f16 f8. f16 e8. e16 e4 | d g c, r   | \break
     c8. d16 e8. f16 g4 g        | a8. a16 c8. a16 g2 | \break 
+    % time change
     \time 6/8
+    %repeat
     \repeat volta 2 {  c4. g8 a g | f e d c4. } %\bar "|."
    
 
@@ -41,7 +43,7 @@ Zo va -- ren de scheep -- jes voor -- bij.
 
 
 \markup { \vspace #1 }
-
+% Generate PDF
 \score {
   <<
     \new ChordNames \chordNames
@@ -52,6 +54,7 @@ Zo va -- ren de scheep -- jes voor -- bij.
   \layout { }
 }
 
+% Generate midifile
 \score {
     \unfoldRepeats 
   <<
@@ -61,7 +64,8 @@ Zo va -- ren de scheep -- jes voor -- bij.
      >>
   \midi {}
 }
- 
+  
+% Add text and/or image
 \markup{
    \column{
     \vspace#8 
@@ -69,7 +73,10 @@ Zo va -- ren de scheep -- jes voor -- bij.
     % \image #AXIS #SIZE "path/to/file.png"
     % X = horizontal axis scaling, 15 = width in staff-spaces
     \fill-line{
-    \image #X #80 "klap_eens_in_je_handjes.png"
+    % centered image
+    \image #X #80 "template.png"
+    %left justified
+%   "" \image #X #80 "template.png"
     }
    }
  
