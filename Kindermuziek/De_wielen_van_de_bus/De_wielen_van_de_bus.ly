@@ -9,7 +9,7 @@
 global = {
   \time 4/4
   \key c \major
-  \tempo 4=130
+  \tempo 4=140
 }
   
 chordNames = \chordmode {
@@ -63,9 +63,9 @@ words = \lyricmode {
 \score {
     \unfoldRepeats 
   <<
-    \new ChordNames \chordNames
+    \new ChordNames {\chordNames \chordNames \chordNames \chordNames \chordNames \chordNames \chordNames }
    % \new FretBoards \chordNames
-    \new Staff { \melody }
+    \new Staff { \melody \melody \melody \melody \melody \melody \melody }
      >>
   \midi {}
 }
@@ -100,15 +100,8 @@ words = \lyricmode {
         "De mensen in de bus gaan op en neer..."
         " "
         "De buschauffeur zegt dag, dag, dag..."
-        " " 
         "Als de bus gaat stoppen"
-        
-        " "
-        " "
-     
-
-        }
- 
+        } 
       \column {
         " "
         " "
@@ -137,11 +130,9 @@ words = \lyricmode {
         "De walvis in de bus doet MWOOEEEEEEEEEE "  
         " "
         " "
-        " "
-        
-
-      \image #X #40   "De_wielen_van_de_bus.png"
-     }
+        " "      
+        \image #X #40   "De_wielen_van_de_bus.png"
+        }
     % centered image
     %left justified
 %   "" \image #X #80 "template.png"

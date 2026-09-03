@@ -45,43 +45,6 @@ words = \lyricmode {
   -- kap -- je waar ga je he -- en zo a -- lleen  
 }
 
-words_twee = \lyricmode {
-    "'K ga"  bij groot -- moe -- der koek -- jes breng -- en In het bos, in het bos 
-    "'K ga"  bij groot -- moe -- der koek -- jes breng -- en In het bos
-    
-}
-
-words_drie = \lyricmode {
-    In het bos zijn de wil -- de dier -- en In het bos, in het bos 
-    In het bos zijn de wil -- de dier -- en In het bos
-}
-
-words_vier = \lyricmode {
-    Ben niet bang voor de wil -- de dier -- en Ben niet bang, ben niet bang 
-    Ben niet bang voor de wil -- de dier -- en Ben niet bang
-}
-
-words_vijf = \lyricmode {
-    "'k Zal" eens zien of jij niet bang bent 
-    "'k Zal" eens zien, "'k zal" eens zien 
-    "'k Zal" eens zien of jij niet bang bent 
-    "'k Zal" eens zien
-}
-
-words_zes = \lyricmode {
-    Pas maar op daar " " komt de wolf aan Pas maar op, pas maar op
-    Pas maar op daar " " komt de wolf aan Pas maar op
-}
-"In het bos zijn de wilde dieren " "In het bos, in het bos "
-    "In het bos zijn de wilde dieren " "In het bos " " "
-    "Ben niet bang voor de wilde dieren " "Ben niet bang, ben niet bang "
-    "Ben niet bang voor de wilde dieren " "Ben niet bang " " "
-    "'k Zal eens zien of jij niet bang bent "
-    "'k Zal eens zien, 'k zal eens zien "
-    "'k Zal eens zien of jij niet bang bent " "'k Zal eens zien " " "
-    "Pas maar op daar komt de wolf aan " "Pas maar op, pas maar op "
-    "Pas maar op daar komt de wolf aan " "Pas maar op" 
-
 \markup { \vspace #1 }
 % Generate PDF
 \score {
@@ -90,11 +53,6 @@ words_zes = \lyricmode {
    % \new FretBoards \chordNames
     \new Staff { \melody }
     \addlyrics { \words }
-    \addlyrics { \words_twee }
-    \addlyrics { \words_drie }
-    \addlyrics { \words_vier }
-    \addlyrics { \words_vijf }
-    \addlyrics { \words_zes }
       >>
   \layout { }
 }
@@ -103,26 +61,61 @@ words_zes = \lyricmode {
 \score {
     \unfoldRepeats 
   <<
-    \new ChordNames \chordNames
+    \new ChordNames {\chordNames \chordNames \chordNames \chordNames \chordNames }
    % \new FretBoards \chordNames
-    \new Staff { \melody }
+    \new Staff { \melody \melody \melody \melody \melody \melody }
      >>
   \midi {}
 }
   
 % Add text and/or image
 \markup{
-   \column{
-    \vspace#8 
+%    \vspace#10
     
     % \image #AXIS #SIZE "path/to/file.png"
     % X = horizontal axis scaling, 15 = width in staff-spaces
+  \column{
     \fill-line{
-    % centered image
-    \image #X #60   "Zeg_Roodkapje.png"
-    %left justified
-%   "" \image #X #80 "template.png"
+      \column{
+        " "
+        " "
+        " "
+        \bold \underline "Zeg Roodkapje: "
+        "Zeg Roodkapje waar ga je heen" 
+        "Zo alleen, zo alleen" 
+        "Zeg Roodkapje waar ga je heen" 
+        "Zo alleen"
+        " "
+        "In het bos zijn de wilde dieren " 
+        "In het bos, in het bos "
+        "In het bos zijn de wilde dieren " 
+        "In het bos " 
+        " "
+        "Ben niet bang voor de wilde dieren " 
+        "Ben niet bang, ben niet bang "
+        "Ben niet bang voor de wilde dieren " 
+        "Ben niet bang " 
+        " "
+        "'k Zal eens zien of jij niet bang bent "
+        "'k Zal eens zien, 'k zal eens zien "
+        "'k Zal eens zien of jij niet bang bent " 
+        "'k Zal eens zien " 
+        " "
+        "Pas maar op daar komt de wolf aan " 
+        "Pas maar op, pas maar op "
+        "Pas maar op daar komt de wolf aan " 
+        "Pas maar op" 
+        } 
+      \column{
+        " "
+        " "
+        " "   
+        " "
+        " "
+        " "
+        " "
+        \image #X #50   "Zeg_Roodkapje.png"
+      }
     }
-   }
- 
+  }
 }
