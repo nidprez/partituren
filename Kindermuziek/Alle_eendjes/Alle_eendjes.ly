@@ -1,7 +1,7 @@
 \version "2.26.0"
 
 \header {
-  title = "Template"
+  title = "Alle eendjes"
   tagline = ##f
 }
 
@@ -15,30 +15,37 @@ global = {
 chordNames = \chordmode {
   \global
   \set noChordSymbol = ""
-  c1 f2 c
-  g2 c g:7 c
-  c1 f2 c
-  \repeat volta 2 { f4. c4. g4.:7 c4. } 
+ f2 c | % 1
+  f1 | % 2
+  s2 bes4 c | % 3
+  f2 bes4 c | % 4
+  f2 c | % 5
+  f1 | % 6
+  bes2 c2 | % 7
+  f1  | % 8
+  s
 }
 
 melody = \relative c' {
   \global
-    c8. d16 e8. f16 g4 g        | a c g2 | \break
-    f8. f16 f8. f16 e8. e16 e4 | d g c, r   | \break
-    c8. d16 e8. f16 g4 g        | a8. a16 c8. a16 g2 | \break 
-    % time change
-    \time 6/8
-    %repeat
-    \repeat volta 2 {  c4. g8 a g | f e d c4. } %\bar "|."
+     f4   f4   g4  g4 | % 1 
+   c8  d8  c8  bes8   a4   f4 | \break % 2
+    f8   g8   f8   e8   d4   c4 | % 3
+    f8   g8   f8   e8   d4   c4 | \break % 4
+    f4   f4   g4   g4 | % 5
+   c8  d8  c8  bes8   a4   f4 | \break % 6
+    d2   e2 | % 7
+    f8   a8   c8   a8   f8   a8   c8   a8 | % 8
+    f4   f4   f2 \bar "|."
    
 
 }
-
+ 
 words = \lyricmode {
-  Klap eens in je hand -- jes, blij, blij, blij
-op je bo -- ze bol -- le -- tje, al -- le -- bei.
-Hand- jes in de hoog- te, hand -- jes in je zij
-Zo va -- ren de scheep -- jes voor -- bij.  
+  A -- lle eend -- jes zwem -- men in het wa -- ter fal -- de -- ral -- de --
+  rie -- re fal -- de -- ral -- de -- ra -- re A -- lle eend -- jes zwem -- men
+  in het wa -- ter fal fal fal -- de -- ral -- de -- ral -- de -- ral -- de --
+  ral ral ral
 }
 
 
@@ -62,19 +69,19 @@ Zo va -- ren de scheep -- jes voor -- bij.
    % \new FretBoards \chordNames
     \new Staff { \melody }
      >>
-  \midi {}
+  \midi {} 
 }
   
 % Add text and/or image
 \markup{
    \column{
-    \vspace#8 
+    \vspace#7
     
     % \image #AXIS #SIZE "path/to/file.png"
     % X = horizontal axis scaling, 15 = width in staff-spaces
     \fill-line{
     % centered image
-µ%    \image #X #80 "template.png"
+    \image #X #45 "Alle_eendjes.png"
     %left justified
 %   "" \image #X #80 "template.png"
     }
