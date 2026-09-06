@@ -65,7 +65,7 @@ melody = \relative c' {
 
     e4  e4  e4  c4 | % 9
      e4  f4  g4  g4 | % 10
-     d4  d4  d4  f4 | % 11
+     g4  d4  d4  f4 | % 11
      e4  d4  c4  c8  c8 | % 12
      e4  e4  e4  c4 | % 13
      e4  f4  g2 | % 14
@@ -93,7 +93,7 @@ words = \lyricmode {
   Gans mijn lijf staat vol met plui -- men, grij --
   ze wi -- tte zwart en brui -- ne, "m'n" kop -- je gaat om -- hoog om -- laag,
   graan -- tjes pik -- ken doe ik graag "1" --  "2" -- "3" Ri -- kke ti -- kke "tik!"
-  Ra ra ra \skip1 wie ben -- ne "kik?" Is er ie -- mand die al weet hoe ik
+  Ra ra ra wie ben -- ne "kik?" Is er ie -- mand die al weet hoe ik
   "heet?"
 }
 

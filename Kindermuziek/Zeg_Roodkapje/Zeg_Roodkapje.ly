@@ -86,6 +86,11 @@ words = \lyricmode {
         "Zeg Roodkapje waar ga je heen" 
         "Zo alleen"
         " "
+        "'k Ga bij grootmoeder koekjes brengen"
+        "In het bos, in het bos"
+        "'k Ga bij grootmoeder koekjes brengen"
+        "In het bos"
+        " "
         "In het bos zijn de wilde dieren " 
         "In het bos, in het bos "
         "In het bos zijn de wilde dieren " 
@@ -105,6 +110,11 @@ words = \lyricmode {
         "Pas maar op, pas maar op "
         "Pas maar op daar komt de wolf aan " 
         "Pas maar op" 
+        " "
+        "Zeg Roodkapje waar ga je heen" 
+        "Zo alleen, zo alleen" 
+        "Zeg Roodkapje waar ga je heen" 
+        "Zo alleen"
         } 
       \column{
         " "
