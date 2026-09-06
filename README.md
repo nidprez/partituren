@@ -6,6 +6,6 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 
 | Titel   | Artiest   | pdf   | midi   |
 |-------  |---        |---    |---     |
-| In de Maneschijn |   | Kindermuziek/In_de_maneschijn.pdf  |   |   
+| In de Maneschijn |   | [pdf](Kindermuziek/In_de_maneschijn.pdf)  |   |   
 |   |   |   |   |   
 |   |   |   |   |   
