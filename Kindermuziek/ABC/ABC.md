@@ -1,0 +1,30 @@
+# A B C D E F G                           
+										  
+A B C D E F G                             
+zing met ons de letters mee               
+H I J K L M N O P                         
+Q R S T U V W                             
+X Y Z goed opgelet                        
+dit zijn de letters van het alfabet.      
+										  
+## Varianten:                             
+A B C D E F G                             
+meester de jongens nemen knikkers mee.    
+Stoute jongen, je mag niet klikken        
+anders krijg je zeven tikken.             
+Meester, ga gerust uw gang                
+voor een tik ben ik niet bang.            
+										  
+A B C D E F G                             
+meester de jongens nemen knikkers mee.    
+Jongens je mag in school niet knikkeren   
+anders zal ik je de school uit flikken !  
+Meester, dan zijn we nog niet bang        
+want de hele schooltijd duurt zo lang.    
+										  
+A B C D E F G                             
+H I J K L M N O P                         
+Q R S T U V W                             
+X Y Z doen ook nog mee                    
+A B C tot X Y Z                           
+dat zijn de letters van het alfabet.      
