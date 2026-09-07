@@ -1,0 +1,41 @@
+# Advocaatje ging op reis
+
+Advocaatje ging op reis, tiereliereliere
+advocaatje ging op reis, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+Bij een herberg bleef hij staan, tiereliereliere
+bij een herberg bleef hij staan, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+Stokvis kreeg hij bij 't ontbijt, tiereliereliere
+stokvis kreeg hij bij 't ontbijt, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+'t Graatje schoot hem in zijn keel, tiereliereliere
+'t graatje schoot hem in zijn keel, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+Dokter werd er bij gehaald, tiereliereliere
+dokter werd er bij gehaald, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+Maar de dokter was te laat, tiereliereliere
+maar de dokter was te laat, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+Zo ging Advocaatje dood, tiereliereliere
+zo ging Advocaatje dood, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
+
+'t Gras dat groeit nu op zijn buik, tiereliereliere
+'t gras dat groeit nu op zijn buik, tierelierelom.
+Met zijn hoedje op zijn arm, tiereliereliere
+met zijn hoedje op zijn arm, tierelierelom.
