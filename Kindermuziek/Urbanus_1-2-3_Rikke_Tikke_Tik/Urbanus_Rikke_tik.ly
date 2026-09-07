@@ -69,7 +69,7 @@ melody = \relative c' {
      e4  d4  c4  c8  c8 | % 12
      e4  e4  e4  c4 | % 13
      e4  f4  g2 | % 14
-     d4  d4  d4  f4 | % 15
+     g4  d4  d4  f4 | % 15
      e4  d4  c2 \bar "||" % 16
 
      a'4  a4  a2 | % 17
