@@ -9,7 +9,7 @@
 global = {
   \time 4/4
   \key c \major
-  \tempo 4=140 
+  \tempo 4=90 
 }
   
 chordNames = \chordmode {
@@ -73,7 +73,7 @@ words = \lyricmode {
         " "
         " "   
         " "   
-        " "   
+        \bold \underline "De dikke spin: "   
         "Rin-tin-tin, daar loopt een dikke spin.        "
         "Rep-tep-tep, hij maakt een heel groot web.     "
         "											    "
