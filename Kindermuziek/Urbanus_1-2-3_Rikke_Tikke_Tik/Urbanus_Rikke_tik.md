@@ -1,3 +1,4 @@
+<pre style="font-family: inherit; white-space: pre-wrap;">
 # 1-2-3 Rikke Tikke Tik
 1.  Kot-kot-kot-kot-kot-kodei (x4)                        
 														  
@@ -46,3 +47,4 @@ Refrein:
 	krijg je vandaag maar een half pakske slaag -         
 														  
 4.  Allemaal gelijk: Tralalalalala, Tralalalalala,...     
+</pre>
