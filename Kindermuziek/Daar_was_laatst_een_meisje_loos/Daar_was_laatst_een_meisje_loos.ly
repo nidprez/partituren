@@ -15,7 +15,7 @@ global = {
   
 chordNames = \chordmode {
   \global
-  f2. s s s d:m7 c c:7 f s s d:m8 s f g:m7 c:7 f 
+  f2. s s s d:m7 c c:7 f s s d:m7 s f g:m7 c:7 f 
 }
 
 melody = \relative c'' {

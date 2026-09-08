@@ -97,10 +97,7 @@ words = \lyricmode {
         " "
         " "
         " "
-        " "
-        " " 
-        " " 
-        \image #X #60   "ABC.png"
+        \image #X #50   "ABC.png"
      }
 
     % centered image
