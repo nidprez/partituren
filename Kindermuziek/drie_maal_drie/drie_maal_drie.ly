@@ -14,8 +14,10 @@ global = {
   
 chordNames = \chordmode {
   \global
-   c1 g2:7 c1 a2:m7 d4:m7 g:7 c2
-}
+  \repeat volta 2 {
+    c1 f2 g2 c2  a2:m7 d4:m7 g:7 c2
+  }
+} 
 
 melody = \relative g' {
   \global 

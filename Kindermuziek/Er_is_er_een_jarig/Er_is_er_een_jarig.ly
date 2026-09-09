@@ -10,14 +10,14 @@
 global = {
   \time 6/8
   \key f \major
-  \tempo 4=160
+  \tempo 4=100
 }
   
 chordNames = \chordmode {
   \global
     \partial 8 
   s8 f2. s2. d4.:m7 g4.:m7  f2. s2. d2.:m7 c4. g:7 c2. bes2.    
-   f2. c2.  f2. bes2. f2.  c2.:7 f2.
+   f2. c2.  f2. bes2. c2.  c2.:7 f2. 
 }
 
 melody = \relative c' {
@@ -60,9 +60,9 @@ words = \lyricmode {
 \score {
     \unfoldRepeats 
   <<
-    \new ChordNames { \chordNames \chordNames \chordNames \chordNames \chordNames}
+    \new ChordNames { \chordNames}
    % \new FretBoards \chordNames
-    \new Staff { \melody \melody \melody \melody \melody}
+    \new Staff { \melody }
      >>
   \midi {}
 }

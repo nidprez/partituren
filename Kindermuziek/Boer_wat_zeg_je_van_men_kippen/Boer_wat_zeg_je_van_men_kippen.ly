@@ -9,7 +9,7 @@
 
 global = {
   \time 6/8
-  \key c \major
+  \key f \major
   \tempo 4=90
 }
   
@@ -24,9 +24,9 @@ chordNames = \chordmode {
 
 melody = \relative c'' {
   \global 
-   c4 a8 c4 a8 | g a b a4 f8 | c'4 a8 c4 a8 | g a g f4. | 
+   c4 a8 c4 a8 | g a bes a4 f8 | c'4 a8 c4 a8 | g a g f4. | 
    f8 e f d4 d8 | g4 f8 e4 c8 | f4 f8 d4 d8 | g4 f8 e4. | 
-   c'4 a8 c4 a8 | g a b a4 f8 | c'4 a8 c4 a8 | g a g f4. \bar "|."
+   c'4 a8 c4 a8 | g a bes a4 f8 | c'4 a8 c4 a8 | g a g f4. \bar "|."
    
 
 }

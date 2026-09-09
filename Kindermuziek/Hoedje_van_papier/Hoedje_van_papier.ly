@@ -10,14 +10,14 @@
 global = {
   \time 4/4
   \key c \major
-  \tempo 4=130
+  \tempo 4=100
 }
   
 chordNames = \chordmode {
   \global
-  %\repeat volta 2 {
-   c1  d4:m7 g:7 c2 s1 d4:m7 g:7 c2 g1:7 c s2 a:m7 d4:m7 g:7 c2
-  %}
+  \repeat volta 2 {
+   c1  g2:7 c2 s1 d4:m7 g:7 c2 g1:7 c s2 a:m7 d4:m7 g:7 c2
+  }
 }
 
 melody = \relative c' {
