@@ -9,32 +9,28 @@
 global = {
   \time 4/4
   \key c \major
-  \tempo 4=160
+  \tempo 4=120
 }
   
 chordNames = \chordmode {
   \global
-  c1 a:m7 g c s a:m7 g:7 c s f g:7 c s a:m7 g:7 c
+  c1 s c g2 g:7 c1 f g:7 c 
 }
 
-melody = \relative c' {
+melody = \relative g' {
   \global
-  c4 c c d | e e e e | d c d e | c2 r | e2 e4 f | g2 g4 g | f e f g | e2 r |
-  g g4 g | a2 a4 a | f e f a | g2 r | c,4 c c d | e e e e | d c d e | c2 r |
+  g2 a8 g fis g | e4 g8 g g4  r | g2  a8 g fis g | d4 d8 d g f e d | c4 e g c | d8. c16 b8. c16 a4 r |
+  b2 b8 g a b | c4 c8 c c4 r 
   \bar "|."
 }
 
 
  
 words = \lyricmode {
-  Hans -- je Pans -- je ke -- ver -- tje  
-  die klom eens op een hek.  
-  Neer viel de re -- gen  
-  die spoel -- de Hans -- je weg.  
-  Op kwam de zon  
-  en die maak -- te Hans -- je droog.  
-  Hans -- je Pans -- je ke -- ver --tje  
-  die klom toen weer om -- hoog.
+  Hoofd, schou -- ders, knie en teen, knie en teen.  
+  Hoofd, schou -- ders, knie en teen, knie en t -- e -- e -- n.  
+  O -- ren, o -- gen, punt -- je van je neus.  
+Hoofd, schou -- ders, knie en teen, knie en teen.  
 }
 
 
@@ -72,7 +68,7 @@ words = \lyricmode {
     % X = horizontal axis scaling, 15 = width in staff-spaces
     \fill-line{
     % centered image
-      \image #X #40 "Hansje_pansje_kevertje.png"
+     \image #X #60 "Hoofd_schouders_knie_en_teen.png"
     %left justified
 %   "" \image #X #80 "template.png"
     }
