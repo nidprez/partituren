@@ -1,15 +1,15 @@
 \version "2.26.0"
 
 \header {
-  title = "Hansje pansje kevertje"
+  title = "Hoofd, schouders, knie en teen"
   tagline = ##f
 }
 
-
+ 
 global = {
   \time 4/4
   \key c \major
-  \tempo 4=120
+  \tempo 4=120 
 }
   
 chordNames = \chordmode {

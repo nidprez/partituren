@@ -14,11 +14,11 @@ global = {
   
 chordNames = \chordmode {
   \global
-  c2 f c1 s2 f c1 s f s c g:7 c }
+  c2 f c1 s2 f c1 s f s g g:7 c }
 
 melody = \relative g' {
   \global
-  g4 g a a g2 e g a g e g e a1 a4 a g f f2 e d g c, r 
+  g4 g a a g2 e g a g e g e a1 a4 a a g f2 e d g c, r 
   \bar "|."
 }
 
