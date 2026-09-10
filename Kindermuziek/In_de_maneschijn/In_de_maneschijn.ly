@@ -8,7 +8,7 @@
 
 global = {
   \time 4/4
-  \key f \major
+  \key c \major
   \tempo 4=110
 }
   
