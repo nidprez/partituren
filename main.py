@@ -29,20 +29,20 @@ def generate_markdown_table() -> str:
                 try:
                     md_path = os.path.join(root, md_files[0])
                     title = get_title(md_path)
-                    md_link = f"[Lyrics]{os.path.relpath(md_path, '.').replace(os.sep, '/')}"
+                    md_link = f"[Lyrics]({os.path.relpath(md_path, '.').replace(os.sep, '/')})"
                 except IndexError:
                     title = " "
                     md_link = " "
 
                 try:
                     mid_path = os.path.join(root, mid_files[0])
-                    mid_link = f"[Midi]{os.path.relpath(mid_path, '.').replace(os.sep, '/')}"
+                    mid_link = f"[Midi]({os.path.relpath(mid_path, '.').replace(os.sep, '/')})"
                 except IndexError:
                     mid_link = " "
 
                 try:
                     pdf_path = os.path.join(root, pdf_files[0])
-                    pdf_link = f"[Pdf]{os.path.relpath(pdf_path, '.').replace(os.sep, '/')}"
+                    pdf_link = f"[Pdf]({os.path.relpath(pdf_path, '.').replace(os.sep, '/')})"
                 except IndexError:
                     pdf_link = " "
                 rows.append([title, md_link, pdf_link, mid_link])
