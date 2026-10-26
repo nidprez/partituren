@@ -1,1 +1,4 @@
 lilypond/
+.venv
+.python-version
+test.ipynb
