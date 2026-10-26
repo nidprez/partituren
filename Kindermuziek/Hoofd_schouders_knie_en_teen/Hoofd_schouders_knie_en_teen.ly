@@ -19,7 +19,7 @@ chordNames = \chordmode {
 
 melody = \relative g' {
   \global
-  g2 a8 g fis g | e4 g8 g g4  r | g2  a8 g fis g | d4 d8 d g f e d | c4 e g c | d8. c16 b8. c16 a4 r |
+  g2 a8 g fis g | e4 g8 g g4  r | g2  a8 g fis g | d4 g8 g g f e d | c4 e g c | d8. c16 b8. c16 a4 r |
   b2 b8 g a b | c4 c8 c c4 r 
   \bar "|."
 }

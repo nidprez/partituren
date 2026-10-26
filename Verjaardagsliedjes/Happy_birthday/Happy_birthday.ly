@@ -1,7 +1,7 @@
 \version "2.26.0"
 
 \header {
-  title = "Lang zal hij leven"
+  title = "Happy birthday to you"
   tagline = ##f
 }
 

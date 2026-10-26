@@ -1,7 +1,7 @@
 \version "2.26.0"
 
 \header {
-  title = "Lang zal hij leven"
+  title = "  Twee violen en een trommel en een fluit"
   tagline = ##f
 }
 
