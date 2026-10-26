@@ -1,13 +1,16 @@
 # A B C D E F G
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 A B C D E F G
 zing met ons de letters mee
 H I J K L M N O P
 Q R S T U V W
 X Y Z goed opgelet
 dit zijn de letters van het alfabet.
+</pre>
 
 ## Varianten:
+
+<pre style="font-family: inherit; white-space: pre-wrap;">
 A B C D E F G
 meester de jongens nemen knikkers mee.
 Stoute jongen, je mag niet klikken
@@ -28,3 +31,4 @@ Q R S T U V W
 X Y Z doen ook nog mee
 A B C tot X Y Z
 dat zijn de letters van het alfabet.
+</pre>
