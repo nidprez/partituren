@@ -7,17 +7,8 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 
  | Title | Lyrics | Score | MIDI |
 | :--- | :---: | :---: | :---: |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Klap_eens_in_je_handjes/Klap_eens_in_je_handjes.pdf) | [Midi](partituren/Kindermuziek/Klap_eens_in_je_handjes/Klap_eens_in_je_handjes.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.pdf) | [Midi](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Olifantje_in_het_bos/Olifantje_in_het_bos.pdf) | [Midi](partituren/Kindermuziek/Olifantje_in_het_bos/Olifantje_in_het_bos.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Op_een_grote_paddenstoel/Op_een_grote_paddenstoel.pdf) | [Midi](partituren/Kindermuziek/Op_een_grote_paddenstoel/Op_een_grote_paddenstoel.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Plop_Ik_ben_een_muzikantje/Ik_ben_een_muzikantje.pdf) | [Midi](partituren/Kindermuziek/Plop_Ik_ben_een_muzikantje/Ik_ben_een_muzikantje.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Poesje_mauw/Poesje_mauw.pdf) | [Midi](partituren/Kindermuziek/Poesje_mauw/Poesje_mauw.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Samson_en_Marie_Lachlied/Samson_en_Marie_Lachlied.pdf) | [Midi](partituren/Kindermuziek/Samson_en_Marie_Lachlied/Samson_en_Marie_Lachlied.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/We_maken_een_kringetje/We_maken_een_kringetje.pdf) | [Midi](partituren/Kindermuziek/We_maken_een_kringetje/We_maken_een_kringetje.mid) |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Zeg_Roodkapje/Zeg_Roodkapje.pdf) | [Midi](partituren/Kindermuziek/Zeg_Roodkapje/Zeg_Roodkapje.mid) |
 | **'k Heb mijn wagen volgeladen** | [Lyrics](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.md) | [Pdf](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.pdf) | [Midi](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.mid) |
-| **1-2-3 Rikke Tikke Tik** | [Lyrics](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.md) | [Pdf](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.pdf) | [Midi](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.mid) |
+| **'k Zag twee beren:** | [Lyrics](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.md) | [Pdf](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.pdf) | [Midi](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.mid) |
 | **A B C D E F G** | [Lyrics](partituren/Kindermuziek/ABC/ABC.md) | [Pdf](partituren/Kindermuziek/ABC/ABC.pdf) | [Midi](partituren/Kindermuziek/ABC/ABC.mid) |
 | **Advocaatje ging op reis** | [Lyrics](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.md) | [Pdf](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.pdf) | [Midi](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.mid) |
 | **Alle eendjes** | [Lyrics](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.md) | [Pdf](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.pdf) | [Midi](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.mid) |
@@ -37,9 +28,18 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 | **Hoofd, schouders, knie en teen** | [Lyrics](partituren/Kindermuziek/Hoofd_schouders_knie_en_teen/Hoofd_schouders_knie_en_teen.md) | [Pdf](partituren/Kindermuziek/Hoofd_schouders_knie_en_teen/Hoofd_schouders_knie_en_teen.pdf) | [Midi](partituren/Kindermuziek/Hoofd_schouders_knie_en_teen/Hoofd_schouders_knie_en_teen.mid) |
 | **Iene miene mutte** | [Lyrics](partituren/Kindermuziek/Iene_miene_mutte/Iene_miene_mutte.md) | [Pdf](partituren/Kindermuziek/Iene_miene_mutte/Iene_miene_mutte.pdf) | [Midi](partituren/Kindermuziek/Iene_miene_mutte/Iene_miene_mutte.mid) |
 | **In de maneschijn** | [Lyrics](partituren/Kindermuziek/In_de_maneschijn/In_de_maneschijn.md) | [Pdf](partituren/Kindermuziek/In_de_maneschijn/In_de_maneschijn.pdf) | [Midi](partituren/Kindermuziek/In_de_maneschijn/In_de_maneschijn.mid) |
+| **Kabouter Plop - Ik ben een muzikantje** | [Lyrics](partituren/Kindermuziek/Plop_Ik_ben_een_muzikantje/Ik_ben_een_muzikantje.md) | [Pdf](partituren/Kindermuziek/Plop_Ik_ben_een_muzikantje/Ik_ben_een_muzikantje.pdf) | [Midi](partituren/Kindermuziek/Plop_Ik_ben_een_muzikantje/Ik_ben_een_muzikantje.mid) |
+| **Klap eens in je handjes** | [Lyrics](partituren/Kindermuziek/Klap_eens_in_je_handjes/Klap_eens_in_je_handjes.md) | [Pdf](partituren/Kindermuziek/Klap_eens_in_je_handjes/Klap_eens_in_je_handjes.pdf) | [Midi](partituren/Kindermuziek/Klap_eens_in_je_handjes/Klap_eens_in_je_handjes.mid) |
 | **Mijn haan is dood** | [Lyrics](partituren/Kindermuziek/Mijn_haan_is_dood/Mijn_haan_is_dood.md) | [Pdf](partituren/Kindermuziek/Mijn_haan_is_dood/Mijn_haan_is_dood.pdf) | [Midi](partituren/Kindermuziek/Mijn_haan_is_dood/Mijn_haan_is_dood.mid) |
+| **Olifantje in het bos** | [Lyrics](partituren/Kindermuziek/Olifantje_in_het_bos/Olifantje_in_het_bos.md) | [Pdf](partituren/Kindermuziek/Olifantje_in_het_bos/Olifantje_in_het_bos.pdf) | [Midi](partituren/Kindermuziek/Olifantje_in_het_bos/Olifantje_in_het_bos.mid) |
+| **Op een grote paddenstoel** | [Lyrics](partituren/Kindermuziek/Op_een_grote_paddenstoel/Op_een_grote_paddenstoel.md) | [Pdf](partituren/Kindermuziek/Op_een_grote_paddenstoel/Op_een_grote_paddenstoel.pdf) | [Midi](partituren/Kindermuziek/Op_een_grote_paddenstoel/Op_een_grote_paddenstoel.mid) |
 | **Papegaaitje, leef je nog?** | [Lyrics](partituren/Kindermuziek/Papegaaitje_leef_je_nog/Papegaaitje_leef_je_nog.md) | [Pdf](partituren/Kindermuziek/Papegaaitje_leef_je_nog/Papegaaitje_leef_je_nog.pdf) | [Midi](partituren/Kindermuziek/Papegaaitje_leef_je_nog/Papegaaitje_leef_je_nog.mid) |
+| **Poesje mauw** | [Lyrics](partituren/Kindermuziek/Poesje_mauw/Poesje_mauw.md) | [Pdf](partituren/Kindermuziek/Poesje_mauw/Poesje_mauw.pdf) | [Midi](partituren/Kindermuziek/Poesje_mauw/Poesje_mauw.mid) |
+| **Samson en Marie - Het Lachlied** | [Lyrics](partituren/Kindermuziek/Samson_en_Marie_Lachlied/Samson_en_Marie_Lachlied.md) | [Pdf](partituren/Kindermuziek/Samson_en_Marie_Lachlied/Samson_en_Marie_Lachlied.pdf) | [Midi](partituren/Kindermuziek/Samson_en_Marie_Lachlied/Samson_en_Marie_Lachlied.mid) |
+| **Urbanus - 1-2-3 Rikke Tikke Tik** | [Lyrics](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.md) | [Pdf](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.pdf) | [Midi](partituren/Kindermuziek/Urbanus_1-2-3_Rikke_Tikke_Tik/Urbanus_Rikke_tik.mid) |
+| **We maken een kringetje** | [Lyrics](partituren/Kindermuziek/We_maken_een_kringetje/We_maken_een_kringetje.md) | [Pdf](partituren/Kindermuziek/We_maken_een_kringetje/We_maken_een_kringetje.pdf) | [Midi](partituren/Kindermuziek/We_maken_een_kringetje/We_maken_een_kringetje.mid) |
 | **Ze kunnen zeggen wat ze willen** | [Lyrics](partituren/Kindermuziek/Ze_kunnen_zeggen_wat_ze_willen/Ze_kunnen_zeggen_wat_ze_willen.md) | [Pdf](partituren/Kindermuziek/Ze_kunnen_zeggen_wat_ze_willen/Ze_kunnen_zeggen_wat_ze_willen.pdf) | [Midi](partituren/Kindermuziek/Ze_kunnen_zeggen_wat_ze_willen/Ze_kunnen_zeggen_wat_ze_willen.mid) |
+| **Zeg Roodkapje** | [Lyrics](partituren/Kindermuziek/Zeg_Roodkapje/Zeg_Roodkapje.md) | [Pdf](partituren/Kindermuziek/Zeg_Roodkapje/Zeg_Roodkapje.pdf) | [Midi](partituren/Kindermuziek/Zeg_Roodkapje/Zeg_Roodkapje.mid) |
 
 
 ## Verjaardagsliedjes
