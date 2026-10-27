@@ -6,7 +6,7 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 ## Kindermuziek
 
  | # | Title | Lyrics | Score | MIDI |
-| :--- | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: | :---: |
 | 1 | **'k Heb mijn wagen volgeladen** | [Lyrics](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.md) | [Pdf](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.pdf) | [Midi](partituren/Kindermuziek/Kheb_mijn_wagen_volgeladen/Kheb_mijn_wagen_volgeladen.mid) |
 | 2 | **'k Zag twee beren:** | [Lyrics](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.md) | [Pdf](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.pdf) | [Midi](partituren/Kindermuziek/Kzag_twee_beren/Kzag_twee_beren.mid) |
 | 3 | **A B C D E F G** | [Lyrics](partituren/Kindermuziek/ABC/ABC.md) | [Pdf](partituren/Kindermuziek/ABC/ABC.pdf) | [Midi](partituren/Kindermuziek/ABC/ABC.mid) |
@@ -45,7 +45,7 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 ## Verjaardagsliedjes
 
  | # | Title | Lyrics | Score | MIDI |
-| :--- | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: | :---: |
 | 1 | **Er is er één jarig** | [Lyrics](partituren/Verjaardagsliedjes/Er_is_er_een_jarig/Er_is_er_een_jarig.md) | [Pdf](partituren/Verjaardagsliedjes/Er_is_er_een_jarig/Er_is_er_een_jarig.pdf) | [Midi](partituren/Verjaardagsliedjes/Er_is_er_een_jarig/Er_is_er_een_jarig.mid) |
 | 2 | **Happy birthday to you** | [Lyrics](partituren/Verjaardagsliedjes/Happy_birthday/Happy_birthday.md) | [Pdf](partituren/Verjaardagsliedjes/Happy_birthday/Happy_birthday.pdf) | [Midi](partituren/Verjaardagsliedjes/Happy_birthday/Happy_birthday.mid) |
 | 3 | **Lang zal hij leven** | [Lyrics](partituren/Verjaardagsliedjes/Lang_zal_hij_leven/Lang_zal_hij_leven.md) | [Pdf](partituren/Verjaardagsliedjes/Lang_zal_hij_leven/Lang_zal_hij_leven.pdf) | [Midi](partituren/Verjaardagsliedjes/Lang_zal_hij_leven/Lang_zal_hij_leven.mid) |
@@ -57,7 +57,7 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 ## Vlaamse klassiekers
 
  | # | Title | Lyrics | Score | MIDI |
-| :--- | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: | :---: |
 | 1 | ** ** |   | [Pdf](partituren/Vlaamse klassiekers/Will_Tura_Hemelsblauw.pdf) | [Midi](partituren/Vlaamse klassiekers/Will_Tura_Hemelsblauw.mid) |
 
 
