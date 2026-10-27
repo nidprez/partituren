@@ -18,7 +18,7 @@ def generate_markdown_table() -> str:
     """Generates Markdown table"""
     table = ""
     for dirtype in os.listdir("./partituren"):
-        table += f"""## {dirtype} \n\n | Title | Lyrics | Score | MIDI |\n| :--- | :---: | :---: | :---: |\n"""
+        table += f"""## {dirtype} \n\n | # | Title | Lyrics | Score | MIDI |\n| :--- | :---: | :---: | :---: |\n"""
         rows = []
         for root, dirs, files in os.walk(f"./partituren/{dirtype}"):
             md_files = [f for f in files if f.endswith(".md") and f.lower() != "readme.md"]
@@ -48,8 +48,9 @@ def generate_markdown_table() -> str:
                 rows.append([title, md_link, pdf_link, mid_link])
 
         rows.sort(key=lambda x: x[0].lower())
-        for title, md_l, pdf_l, mid_l in rows:
-            table += f"| **{title}** | {md_l} | {pdf_l} | {mid_l} |\n"
+        for i, item in enumerate(rows):
+            # item= title, md_l, pdf_l, mid_l
+            table += f"| {i + 1} | **{item[0]}** | {item[1]} | {item[2]} | {item[3]} |\n"
         table += "\n" * 2
     return table
 
