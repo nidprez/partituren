@@ -1,5 +1,6 @@
  # Daar was laatst een meisje loos
 
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Daar was laatst een meisje loos
 die wou gaan varen, die wou gaan varen
 daar was laatst een meisje loos
@@ -24,3 +25,4 @@ Och kap'teintje sla me niet
 ik ben uw liefje, ik ben uw liefje
 och kap'teintje sla me niet
 ik ben uw liefje zoals gij ziet.
+</pre>
