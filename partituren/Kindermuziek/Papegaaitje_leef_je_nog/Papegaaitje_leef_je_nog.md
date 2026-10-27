@@ -1,5 +1,5 @@
 # Papegaaitje, leef je nog?
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Papegaaitje, leef je nog?
 Ieja, deeja.
 Ja meneer, ik ben er nog!
@@ -19,3 +19,5 @@ Papegaaitje...
 en m'n sapje laten staan
 Ieja, deeja, poef!
 Ieja, deeja, poef!
+
+</pre>

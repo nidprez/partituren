@@ -1,5 +1,5 @@
 # Hoedje van papier
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Een, twee, drie, vier
 hoedje van, hoedje van
 een, twee, drie, vier
@@ -19,3 +19,5 @@ Als het hoedje dan niet past
 zet het in de glazenkast
 een, twee, drie, vier
 hoedje van papier.
+
+</pre>

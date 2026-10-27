@@ -1,5 +1,5 @@
 # Vandaag is het jouw dag - Kaatje
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Vandaag is het jouw dag,
 want jij bent jarig en alles mag
 met slingers en balonnen aan de deur
@@ -10,3 +10,5 @@ En dat we zingen proficiat
 Vandaag is het feest
 want jij bent jarig en alles mag
 want het is jouw dag
+
+</pre>

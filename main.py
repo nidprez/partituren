@@ -54,7 +54,7 @@ def generate_markdown_table() -> str:
     return table
 
 
-if __name__ == "__main__":
+def write_contents_table_to_readme() -> None:
     table_content = generate_markdown_table()
 
     readme_path = "README.md"
@@ -76,3 +76,28 @@ if __name__ == "__main__":
             print("Error: <!-- TABLE_START --> or <!-- TABLE_END --> markers not found in README.md.")
     else:
         print("README.md not found in the root directory.")
+
+
+def add_html_tags_to_md(file: str) -> None:
+    val = '<pre style="font-family: inherit; white-space: pre-wrap;">'
+
+    with open(file, encoding="utf-8") as f:
+        lines = f.readlines()
+    if not any([val in x for x in lines]):
+        print(f"adding html tags to {file}")
+        start_lyrics = ["" == x.strip() for x in lines[1:]].index(False) + 1
+        new_lines = [lines[0], val + "\n", *lines[start_lyrics:], "\n</pre>"]
+        with open(file, "w", encoding="utf-8") as f:
+            f.write("".join(new_lines))
+
+
+def add_html_tags_to_mds() -> None:
+    for root, dirs, files in os.walk("./partituren"):
+        md_files = [f for f in files if f.endswith(".md") and f.lower() != "readme.md"]
+        if md_files:
+            add_html_tags_to_md(os.path.join(root, md_files[0]))
+
+
+if __name__ == "__main__":
+    add_html_tags_to_mds()
+    write_contents_table_to_readme()

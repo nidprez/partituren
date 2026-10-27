@@ -1,5 +1,5 @@
 # De zevensprong
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Heb je wel gehoord van de zeven, de zeven
 heb je wel gehoord van de zevensprong?
 Ze zeggen dat ik niet dansen kan
@@ -29,3 +29,5 @@ dat is zes
 
 ...
 en dat is ze-e-ven!
+
+</pre>

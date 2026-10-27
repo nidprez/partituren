@@ -1,5 +1,5 @@
 # Advocaatje ging op reis
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Advocaatje ging op reis, tiereliereliere
 advocaatje ging op reis, tierelierelom.
 Met zijn hoedje op zijn arm, tiereliereliere
@@ -39,3 +39,5 @@ met zijn hoedje op zijn arm, tierelierelom.
 't gras dat groeit nu op zijn buik, tierelierelom.
 Met zijn hoedje op zijn arm, tiereliereliere
 met zijn hoedje op zijn arm, tierelierelom.
+
+</pre>

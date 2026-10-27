@@ -1,5 +1,5 @@
  # Mijn haan is dood
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Mijn haan is dood, mijn haan is dood (x2)
 Hij zal niet meer zingen kokodie, kokoda (x2)
 
@@ -21,3 +21,5 @@ My cock is dead, My cock is dead (x2)
 He will never sing kokodie, kokoda (x2)
 
 (Refrein)
+
+</pre>

@@ -1,5 +1,5 @@
 # Er is er één jarig
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 Er is er één jarig, hoera, hoera
 dat kun je wel zien: dat is hij.
 Dat vinden wij allen zo prettig, ja ja
@@ -9,3 +9,5 @@ Hij leve lang, hoera, hoera
 hij leve lang, hoera
 hij leve lang, hoera, hoera
 hij leve lang, hoera!
+
+</pre>

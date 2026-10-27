@@ -7,7 +7,6 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 
  | Title | Lyrics | Score | MIDI |
 | :--- | :---: | :---: | :---: |
-| ** ** |   | [Pdf](partituren/Kindermuziek/Berend_botje/Berend_botje.pdf) | [Midi](partituren/Kindermuziek/Berend_botje/Berend_botje.mid) |
 | ** ** |   | [Pdf](partituren/Kindermuziek/Deze_vuist_op_deze_vuist/Deze_vuist_op_deze_vuist.pdf) | [Midi](partituren/Kindermuziek/Deze_vuist_op_deze_vuist/Deze_vuist_op_deze_vuist.mid) |
 | ** ** |   | [Pdf](partituren/Kindermuziek/De_wielen_van_de_bus/De_wielen_van_de_bus.pdf) | [Midi](partituren/Kindermuziek/De_wielen_van_de_bus/De_wielen_van_de_bus.mid) |
 | ** ** |   | [Pdf](partituren/Kindermuziek/Familie_olifant/Familie_olifant.pdf) | [Midi](partituren/Kindermuziek/Familie_olifant/Familie_olifant.mid) |
@@ -27,6 +26,7 @@ This repository contains sheet music in 'lead sheet' style. The sheets are arran
 | **A B C D E F G** | [Lyrics](partituren/Kindermuziek/ABC/ABC.md) | [Pdf](partituren/Kindermuziek/ABC/ABC.pdf) | [Midi](partituren/Kindermuziek/ABC/ABC.mid) |
 | **Advocaatje ging op reis** | [Lyrics](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.md) | [Pdf](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.pdf) | [Midi](partituren/Kindermuziek/Advocaatje_ging_op_reis/Advocaatje_ging_op_reis.mid) |
 | **Alle eendjes** | [Lyrics](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.md) | [Pdf](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.pdf) | [Midi](partituren/Kindermuziek/Alle_eendjes/Alle_eendjes.mid) |
+| **Berend Botje** | [Lyrics](partituren/Kindermuziek/Berend_botje/Berend_botje.md) | [Pdf](partituren/Kindermuziek/Berend_botje/Berend_botje.pdf) | [Midi](partituren/Kindermuziek/Berend_botje/Berend_botje.mid) |
 | **Boer, wat zeg je van mijn kippen** | [Lyrics](partituren/Kindermuziek/Boer_wat_zeg_je_van_men_kippen/Boer_wat_zeg_je_van_men_kippen.md) | [Pdf](partituren/Kindermuziek/Boer_wat_zeg_je_van_men_kippen/Boer_wat_zeg_je_van_men_kippen.pdf) | [Midi](partituren/Kindermuziek/Boer_wat_zeg_je_van_men_kippen/Boer_wat_zeg_je_van_men_kippen.mid) |
 | **Daar was laatst een meisje loos** | [Lyrics](partituren/Kindermuziek/Daar_was_laatst_een_meisje_loos/Daar_was_laatst_een_meisje_loos.md) | [Pdf](partituren/Kindermuziek/Daar_was_laatst_een_meisje_loos/Daar_was_laatst_een_meisje_loos.pdf) | [Midi](partituren/Kindermuziek/Daar_was_laatst_een_meisje_loos/Daar_was_laatst_een_meisje_loos.mid) |
 | **De dikke spin** | [Lyrics](partituren/Kindermuziek/Dikke_spin/Dikke_spin.md) | [Pdf](partituren/Kindermuziek/Dikke_spin/Dikke_spin.pdf) | [Midi](partituren/Kindermuziek/Dikke_spin/Dikke_spin.mid) |

@@ -1,6 +1,5 @@
 # 'k Heb mijn wagen volgeladen
-
-
+<pre style="font-family: inherit; white-space: pre-wrap;">
 'k Heb m'n wagen volgeladen
 vol met oude wijven.
 Toen we op de markt kwamen
@@ -30,3 +29,5 @@ steeds jonge meisjes op m'n wagen.
 
 Hop, paardje, hop
 hop, paardje, hop!
+
+</pre>
